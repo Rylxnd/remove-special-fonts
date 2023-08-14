@@ -1,0 +1,12 @@
+{
+  "name": "remove-special-fonts",
+  "version": "1.0.0",
+  "description": "Removes special font characters from text and replaces them with latin characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
